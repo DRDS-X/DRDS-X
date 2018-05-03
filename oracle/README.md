@@ -12,5 +12,5 @@
 * [Sharded Database Lifecycle Management](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/admin/sharding-lifecycle-management.html#GUID-1A3B887E-148D-4167-81B5-B0FA35746E4B)
 
 ## 相关博文
-* [12c新特性-Oracle Sharding简介[转]](https://blogs.oracle.com/database4cn/12c-oracle-sharding)
-
+* [Oracle 12c新特性-Oracle Sharding简介[转]](https://blogs.oracle.com/database4cn/12c-oracle-sharding)
+* [关于Oracle 12.2 Sharding，你想知道的都在这里[转]](http://www.eygle.com/archives/2017/04/oracle_122_sharding.html)
