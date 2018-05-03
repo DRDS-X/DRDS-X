@@ -14,3 +14,7 @@
 ## 相关博文
 * [Oracle 12c新特性-Oracle Sharding简介[转]](https://blogs.oracle.com/database4cn/12c-oracle-sharding)
 * [关于Oracle 12.2 Sharding，你想知道的都在这里[转]](http://www.eygle.com/archives/2017/04/oracle_122_sharding.html)
+
+
+
+![公众号](DRDS-X.jpg)

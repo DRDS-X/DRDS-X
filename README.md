@@ -9,3 +9,6 @@ MyCAT是一个开源的、实现了MySQL协议的数据库中间件。
 
 进一步了解，请单击[MyCAT章节](mycat/README.md)
 
+
+--------
+![公众号](DRDS-X.jpg)
