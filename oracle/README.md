@@ -1,4 +1,4 @@
-# Oracle数据库sharding技术
+# Oracle sharding技术
 
 ## 官方说明文档
 * [Overview of Oracle Sharding](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/admin/sharding-overview.html#GUID-0F39B1FB-DCF9-4C8A-A2EA-88705B90C5BF)
