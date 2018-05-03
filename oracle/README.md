@@ -11,5 +11,6 @@
 * [Sharded Database Deployment](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/admin/sharding-deployment.html#GUID-F99B8742-4089-4E77-87D4-4691EA932207)
 * [Sharded Database Lifecycle Management](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/admin/sharding-lifecycle-management.html#GUID-1A3B887E-148D-4167-81B5-B0FA35746E4B)
 
-##
+## 相关博文
+* [12c新特性-Oracle Sharding简介[转]](https://blogs.oracle.com/database4cn/12c-oracle-sharding)
 
