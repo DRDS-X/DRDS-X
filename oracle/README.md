@@ -16,5 +16,6 @@
 * [关于Oracle 12.2 Sharding，你想知道的都在这里[转]](http://www.eygle.com/archives/2017/04/oracle_122_sharding.html)
 
 
-
+---
+更多分布式数据库技术，请关注“分布式数据库技术”公众号.
 ![公众号](../DRDS-X.jpg)
